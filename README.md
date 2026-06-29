@@ -8,19 +8,19 @@
 <p align="center"><i><b>激光切割智能自动化工程师。</b>将知识沉淀为可复用系统，以代码输出反哺现场设备，智能自动化闭环改造历程。</i></p>
 
 ---
+## 当前攻坚
 
-**当前攻坚**：逆向解析✅ → 领域建模✅ → 格式转换🔄 → 封装输出⏳
-
+- [逆向解析](./projects/reverse-parsing/) — 专有格式语义还原与结构解构
+- [领域建模](./projects/domain-modeling/) — 工艺知识数据化抽象与参数体系构建
+- [格式转换](./projects/format-transform/) — 异构数据标准化映射与序列化
+- [封装输出](./projects/re-encapsulation/) — 通用接口标准化封装与系统对接
 ---
-
 ## 知识库（随时往里塞）
 
 - [激光切割痛点故障分析](./laser-knowledge/)（待建）
 - [SolidWorks二次开发笔记](./sw-dev/)（待建）
 - [Python工具链](./python-tools/)（待建）
-
 ---
-
 ## 资质与荣誉
 
 <p align="center">
@@ -32,9 +32,7 @@
     </tr>
   </table>
 </p>
-
 ---
-
 ## 联系
 
 - 📧 邮箱：daimaker@163.com
