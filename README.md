@@ -1,55 +1,41 @@
 <p align="center">
-  <img src="qrcode.png" width="120" alt="二维码" style="vertical-align: middle;">
-  <span style="font-size: 18px; vertical-align: middle; margin-left: 12px;">📱 扫码进入</span>
+  <img src="qrcode.png" width="80" alt="二维码" style="vertical-align: middle;">
+  <span style="font-size: 14px; vertical-align: middle;">📱 扫码进入</span>
 </p>
-# 戴工 | 激光切割技术成长记录
 
-> 不是专家，是日记。
-> 一个激光切割操作工，从手动拆图到写自动化工具的过程记录。
+<h1 align="center">戴工 | 激光切割技术成长记录</h1>
 
----
-
-## 阶段记录
-
-| 阶段 | 时间 | 状态 |
-|------|------|------|
-| 纯操作，记参数 | 201X-2020 | 已完成 |
-| Excel+VBA小工具 | 2021-2023 | 已完成 |
-| Python DXF处理，系统破解 | 2024-至今 | 进行中 |
+<p align="center"><i><b>激光切割智能自动化工程师。</b>将知识沉淀为可复用系统，以代码输出反哺现场设备，智能自动化闭环改造历程。</i></p>
 
 ---
 
-## 最近更新
-
-- 2026-06-28：低压电工证培训完成，建立个人技术主页
-- 2026-06-XX：DXF拆分器增加同名零件递增编号
-- 2026-06-XX：宏山.ncex文件校验和逻辑修正
+**当前攻坚**：逆向解析✅ → 领域建模✅ → 格式转换🔄 → 封装输出⏳
 
 ---
 
 ## 知识库（随时往里塞）
 
-- [激光切割工艺记录](./laser-knowledge/)（待建）
+- [激光切割痛点故障分析](./laser-knowledge/)（待建）
 - [SolidWorks二次开发笔记](./sw-dev/)（待建）
 - [Python工具链](./python-tools/)（待建）
 
 ---
+
 ## 资质与荣誉
 
 <p align="center">
   <table style="border: none;">
     <tr>
-      <td><img src="低压电工证1.jpg" width="250" alt="低压电工证"></td>
-      <td><img src="bn1.jpg" width="180" alt="优秀班组荣誉证书"></td>
-      <td><img src="yn1.jpg" width="180" alt="优秀员工荣誉证书"></td>
+      <td><img src="低压电工证1.jpg" width="220" alt="低压电工证"></td>
+      <td><img src="bn1.jpg" width="160" alt="优秀班组荣誉证书"></td>
+      <td><img src="yn1.jpg" width="160" alt="优秀员工荣誉证书"></td>
     </tr>
   </table>
 </p>
 
 ---
 
-
-
 ## 联系
 
-- 邮箱：daimaker@163.com
+- 📧 邮箱：daimaker@163.com
+- 🔧 技术方向：激光切割自动化 / Python DXF处理 / SolidWorks二次开发
