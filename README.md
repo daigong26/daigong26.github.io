@@ -33,17 +33,17 @@
 ## 资质与荣誉
 
 <p align="center">
-  <img src="低压电工证.jpg" width="400" alt="低压电工证">
+  <img src="低压电工证1.jpg" width="300" alt="低压电工证">
 </p>
 
 <p align="center">
 
-  <img src="bf.jpg" width="300" alt="优秀班组荣誉证书内页">
+  <img src="bn1.jpg" width="200" alt="优秀班组荣誉证书内页">
 </p>
 
 <p align="center">
  
-  <img src="yf.jpg" width="300" alt="优秀员工荣誉证书内页">
+  <img src="yn1.jpg" width="200" alt="优秀员工荣誉证书内页">
 </p>
 
 ---
