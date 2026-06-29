@@ -1,12 +1,7 @@
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="qrcode.png" width="120" alt="二维码"></td>
-      <td style="padding-left: 20px; font-size: 18px; color: #333;">📱 扫码进入</td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <img src="qrcode.png" width="120" alt="二维码" style="vertical-align: middle;">
+  <span style="font-size: 18px; vertical-align: middle; margin-left: 12px;">📱 扫码进入</span>
+</p>
 # 戴工 | 激光切割技术成长记录
 
 > 不是专家，是日记。
