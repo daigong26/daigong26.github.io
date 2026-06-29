@@ -26,16 +26,16 @@
 ---
 
 ## 资质与荣誉
-
 <p align="center">
   <table style="border: none;">
     <tr>
-      <td><img src="低压电工证1.jpg" width="220" alt="低压电工证"></td>
-      <td><img src="bn1.jpg" width="160" alt="优秀班组荣誉证书"></td>
-      <td><img src="yn1.jpg" width="160" alt="优秀员工荣誉证书"></td>
+      <td align="center"><img src="低压电工证1.jpg" width="220"><br><small>低压电工证</small></td>
+      <td align="center"><img src="bn1.jpg" width="160"><br><small>优秀班组</small></td>
+      <td align="center"><img src="yn1.jpg" width="160"><br><small>优秀员工</small></td>
     </tr>
   </table>
 </p>
+
 ---
 ## 联系
 
