@@ -37,12 +37,12 @@
 </p>
 
 <p align="center">
-  <img src="bn.jpg" width="200" alt="优秀班组荣誉证书封面">
+
   <img src="bf.jpg" width="300" alt="优秀班组荣誉证书内页">
 </p>
 
 <p align="center">
-  <img src="yn.jpg" width="200" alt="优秀员工荣誉证书封面">
+ 
   <img src="yf.jpg" width="300" alt="优秀员工荣誉证书内页">
 </p>
 
