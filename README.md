@@ -32,6 +32,9 @@
       <td align="center"><img src="低压电工证1.jpg" width="220"><br><small>低压电工证</small></td>
       <td align="center"><img src="bn1.jpg" width="160"><br><small>优秀班组</small></td>
       <td align="center"><img src="yn1.jpg" width="160"><br><small>优秀员工</small></td>
+      <td align="center"><img src="HSGpokoubancain.jpg" width="160"><br><small>坡口板材激光操作证</small></td>
+      <td align="center"><img src="HSGguancain.jpg" width="160"><br><small>三卡型材激光操作证</small></td>
+      
     </tr>
   </table>
 </p>
