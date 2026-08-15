@@ -29,4 +29,4 @@ python log_parser.py --log-dir ./logs/ --start 2026-04-01 --end 2026-04-30
 - 发现某报警在每周一早晨高频出现，定位到周末关机后冷启动参数漂移问题
 ## 代码文件
 
-- [柏楚日志解析系统.py](柏楚日志解析系统.py) — 主程序
+- [柏楚日志解析系统.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/log-parser/柏楚日志解析系统.py) — 主程序
