@@ -33,4 +33,4 @@ python laser_db.py --export --machine HSG-LS20A
 - [ ] Web 化查询界面，支持手机端查看
 ## 代码文件
 
-- [激光切割数据库管理系统.py](激光切割数据库管理系统.py) — 主程序
+- [激光切割数据库管理系统.py](https://github.com/daigong26/daigong26.github.io/blob/main/projects/laser-cutting-db/激光切割数据库管理系统.py) — 主程序
