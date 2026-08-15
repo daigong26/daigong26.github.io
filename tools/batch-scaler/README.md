@@ -24,4 +24,4 @@ python batch_scaler.py --input ./drawings/ --scale 1.05 --output ./scaled/
 ```
 ## 代码文件
 
-- [批量缩放正规版.py](批量缩放正规版.py) — 主程序
+- [批量缩放正规版.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/batch-scaler/批量缩放正规版.py) — 主程序
