@@ -31,3 +31,6 @@ python laser_db.py --export --machine HSG-LS20A
 
 - [ ] 接入 WIP 系统，实现工艺参数与订单绑定
 - [ ] Web 化查询界面，支持手机端查看
+## 代码文件
+
+- [激光切割数据库管理系统.py](激光切割数据库管理系统.py) — 主程序
