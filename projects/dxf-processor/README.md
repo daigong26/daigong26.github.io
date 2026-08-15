@@ -27,3 +27,6 @@ python dxf_splitter.py --input 总装图.dxf --output-dir ./parts/
 
 - 拆分 100 个零件的图纸，人工 40 分钟 → 脚本 2 分钟
 - 十字标漏标率从 5% 降到 0
+## 代码文件
+
+- [dxf拆分器_十字标.py](dxf拆分器_十字标.py) — 主程序
