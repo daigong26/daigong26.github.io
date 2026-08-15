@@ -29,4 +29,4 @@ python dxf_splitter.py --input 总装图.dxf --output-dir ./parts/
 - 十字标漏标率从 5% 降到 0
 ## 代码文件
 
-- [dxf拆分器_十字标.py](dxf拆分器_十字标.py) — 主程序
+- [dxf拆分器_十字标.py](https://github.com/daigong26/daigong26.github.io/blob/main/projects/dxf-processor/dxf拆分器_十字标.py) — 主程序
