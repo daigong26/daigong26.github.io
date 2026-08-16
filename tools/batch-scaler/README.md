@@ -26,3 +26,4 @@ python batch_scaler.py --input ./drawings/ --scale 1.05 --output ./scaled/
 
 - [批量缩放正规版.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/batch-scaler/批量缩放正规版.py) — 主程序
 - [批量缩放2.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/batch-scaler/批量缩放2.py) — 迭代版本
+- [批量缩放.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/batch-scaler/批量缩放.py) — 最早单文件版本
