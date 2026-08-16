@@ -23,4 +23,4 @@
 python ncex_param_tool.py --input-dir ./nc_files/ --param 功率=3500 --material 碳钢
 ## 代码文件
 
-- [宏山激光_ncex_工艺参数修改工具_v11.2.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/ncex-param-tool/宏山激光_ncex_工艺参数修改工具_v11.2.py) — 最终版
+- [宏山激光_ncex_工艺参数修改工具_v11.2最终版无折叠.py](https://github.com/daigong26/daigong26.github.io/blob/main/tools/ncex-param-tool/宏山激光_ncex_工艺参数修改工具_v11.2最终版无折叠.py) — 最终版
