@@ -25,4 +25,4 @@
 
 ## 工具
 
-见 [柏楚日志解析系统](../tools/log-parser/)
+见 [柏楚日志解析系统](https://github.com/daigong26/daigong26.github.io/blob/main/tools/log-parser/柏楚日志解析系统.py)
